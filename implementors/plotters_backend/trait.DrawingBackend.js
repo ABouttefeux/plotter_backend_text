@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["plotter_backend_text"] = [{"text":"impl DrawingBackend for <a class=\"struct\" href=\"plotter_backend_text/struct.TextDrawingBackend.html\" title=\"struct plotter_backend_text::TextDrawingBackend\">TextDrawingBackend</a>","synthetic":false,"types":["plotter_backend_text::TextDrawingBackend"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

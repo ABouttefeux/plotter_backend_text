@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PixelState","State of the pixel in the canvas."]],"fn":[["draw_chart","Draw a chart on a given drawing area. With thw given range and series of data. `text` is the caption of the graph."]],"struct":[["TextDrawingBackend","Text Drawing Backend for the Plotters library."]]});
