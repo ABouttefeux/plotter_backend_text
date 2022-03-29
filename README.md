@@ -1,5 +1,6 @@
 # plotter_backend_text
 
+add `plotter_backend_text = {git = "https://github.com/ABouttefeux/plotter_backend_text", version = "0.0.0"}` to your `.cargo/config` file.
 
 copied and modified from (https://github.com/38/plotters/blob/master/examples/console.rs)
 
