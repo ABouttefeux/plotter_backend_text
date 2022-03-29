@@ -1,6 +1,12 @@
 # plotter_backend_text
 
-add `plotter_backend_text = {git = "https://github.com/ABouttefeux/plotter_backend_text", version = "0.0.0"}` to your `.cargo/config` file.
+![](https://img.shields.io/badge/language-Rust-orange)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![](https://img.shields.io/badge/doc-Read_Me-blueviolet)](https://abouttefeux.github.io/plotter_backend_text/plotter_backend_text/index.html)
+![Build](https://img.shields.io/github/workflow/status/ABouttefeux/plotter_backend_text/Rust)
+[![codecov](https://codecov.io/gh/ABouttefeux/plotter_backend_text/branch/develop/graph/badge.svg)](https://codecov.io/gh/ABouttefeux/plotter_backend_text)
+
+add `plotter_backend_text = {git = "https://github.com/ABouttefeux/plotter_backend_text", version = "0.1.0"}` to your `.cargo/config` file.
 
 copied and modified from (https://github.com/38/plotters/blob/master/examples/console.rs)
 

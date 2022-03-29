@@ -1,8 +1,10 @@
 [package]
 name = "plotter_backend_text"
-version = "0.0.0"
+version = "0.1.0"
 authors = ["Aliénore Bouttefeux <alienore.bouttefeux@gmail.com>"]
-edition = "2018"
+edition = "2021"
+license = "MIT"
+
 
 [features]
 serde-serialize = ["serde"]

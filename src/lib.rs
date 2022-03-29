@@ -29,7 +29,7 @@
 #![warn(clippy::missing_errors_doc)]
 #![warn(missing_docs)]
 #![forbid(unsafe_code)]
-#![doc(html_root_url = "https://docs.rs/plotter_backend_text/0.0.0")]
+#![doc(html_root_url = "https://docs.rs/plotter_backend_text/0.1.0")]
 
 #[cfg(test)]
 mod test;
